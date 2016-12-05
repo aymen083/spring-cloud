@@ -16,7 +16,7 @@
     </properties>
     <modules>
         <module>config-server</module>
-        <module>eureka-server</module>
+        <module>eurika-server</module>
         <module>reservation-service</module>
         <module>reservation-client</module>
         <module>hystrix-dashboard</module>
